@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx playwright *)",
+      "Bash(open /home/pc/dev/vs-claude-minimax-test/love-letter/love-letter.html)",
+      "Bash(xdg-open /home/pc/dev/vs-claude-minimax-test/love-letter/love-letter.html)",
+      "Bash(git --version)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
